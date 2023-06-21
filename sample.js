@@ -6,9 +6,9 @@ export const options = {
   duration: "30s",
 };
 
-export function setup() {
-  console.log("Setup");
-}
+//export function setup() {
+// console.log("Setup");
+//}
 
 export default function () {
   console.log("API First Call");
